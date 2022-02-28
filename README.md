@@ -1,7 +1,11 @@
 # sexual-and-reproductive-health-and-rights-phenotypes
+
+## Description
 Electronic health record (EHR) phenotypes for databases that use the Read code system (e.g. CPRD GOLD).
 These were identified by a systematic review completed in 2018 by Neha Pathak as part of her PhD thesis and are posted here for public use. 
 All phenotypes were either publicly available or provided by authors to use and share.
+All phenpotypes are hosted here in the format they were provide e..g doc, pdf, code, csv, xlsx and can be accessed via these links for use. 
+
 
 [Baril_2015.docx](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes-for-CPRD/files/8152245/Baril_2015.docx)
 
