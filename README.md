@@ -98,3 +98,6 @@ All phenpotypes are hosted here in the format they were provide e..g doc, pdf, c
 ## License
 
 This project is licensed under the [GNU General Public License v3.0 License](https://github.com/UCL-Public-Health-Data-Science/CPRD-GOLD-migrant-primary-care-consultations/blob/main/LICENSE).
+
+[![DOI](https://zenodo.org/badge/464422932.svg)](https://zenodo.org/badge/latestdoi/464422932)
+
