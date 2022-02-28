@@ -91,3 +91,6 @@ All phenotypes were either publicly available or provided by authors to use and 
 
 [Wurst et al. - 2007 - The utility of the general practice research datab.pdf](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes-for-CPRD/files/8152353/Wurst.et.al.-.2007.-.The.utility.of.the.general.practice.research.datab.pdf)
 
+## License
+
+This project is licensed under the [GNU General Public License v3.0 License](https://github.com/UCL-Public-Health-Data-Science/CPRD-GOLD-migrant-primary-care-consultations/blob/main/LICENSE).
