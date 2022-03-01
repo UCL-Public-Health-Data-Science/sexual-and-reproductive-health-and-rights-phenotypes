@@ -53,6 +53,8 @@ All phenpotypes are hosted here in the format they were provide e..g doc, pdf, c
 
 [Jackson_2018.xlsx](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes-for-CPRD/files/8152315/Jackson_2018.xlsx)
 
+[Jackson_2018.docx](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes/files/8163770/Jackson_2018.docx)
+
 [Matcho_2018_2.xlsx](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes-for-CPRD/files/8152316/Matcho_2018_2.xlsx)
 
 [Matcho_2018.xlsx](https://github.com/UCL-Public-Health-Data-Science/sexual-and-reproductive-health-and-rights-phenotypes-for-CPRD/files/8152317/Matcho_2018.xlsx)
